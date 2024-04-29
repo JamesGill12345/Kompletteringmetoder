@@ -1,0 +1,14 @@
+c:\Users\james.gill\Documents\programering\Kompletteringmetoder\Kompletteringmetoder\obj\Debug\net8.0\Kompletteringmetoder.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\james.gill\Documents\programering\Kompletteringmetoder\Kompletteringmetoder\obj\Debug\net8.0\Kompletteringmetoder.AssemblyInfoInputs.cache
+c:\Users\james.gill\Documents\programering\Kompletteringmetoder\Kompletteringmetoder\obj\Debug\net8.0\Kompletteringmetoder.AssemblyInfo.cs
+c:\Users\james.gill\Documents\programering\Kompletteringmetoder\Kompletteringmetoder\obj\Debug\net8.0\Kompletteringmetoder.csproj.CoreCompileInputs.cache
+c:\Users\james.gill\Documents\programering\Kompletteringmetoder\Kompletteringmetoder\bin\Debug\net8.0\Kompletteringmetoder.exe
+c:\Users\james.gill\Documents\programering\Kompletteringmetoder\Kompletteringmetoder\bin\Debug\net8.0\Kompletteringmetoder.deps.json
+c:\Users\james.gill\Documents\programering\Kompletteringmetoder\Kompletteringmetoder\bin\Debug\net8.0\Kompletteringmetoder.runtimeconfig.json
+c:\Users\james.gill\Documents\programering\Kompletteringmetoder\Kompletteringmetoder\bin\Debug\net8.0\Kompletteringmetoder.dll
+c:\Users\james.gill\Documents\programering\Kompletteringmetoder\Kompletteringmetoder\bin\Debug\net8.0\Kompletteringmetoder.pdb
+c:\Users\james.gill\Documents\programering\Kompletteringmetoder\Kompletteringmetoder\obj\Debug\net8.0\Kompletteringmetoder.dll
+c:\Users\james.gill\Documents\programering\Kompletteringmetoder\Kompletteringmetoder\obj\Debug\net8.0\refint\Kompletteringmetoder.dll
+c:\Users\james.gill\Documents\programering\Kompletteringmetoder\Kompletteringmetoder\obj\Debug\net8.0\Kompletteringmetoder.pdb
+c:\Users\james.gill\Documents\programering\Kompletteringmetoder\Kompletteringmetoder\obj\Debug\net8.0\Kompletteringmetoder.genruntimeconfig.cache
+c:\Users\james.gill\Documents\programering\Kompletteringmetoder\Kompletteringmetoder\obj\Debug\net8.0\ref\Kompletteringmetoder.dll
